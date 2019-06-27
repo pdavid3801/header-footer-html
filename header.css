@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .cover {
   background: url('https://orange.codeberryschool.com/content/images/project-assets/page-header-bg.jpg') no-repeat center;
   background-size: cover;
